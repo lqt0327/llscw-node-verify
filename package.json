@@ -1,0 +1,27 @@
+{
+  "name": "llscw-node-verify",
+  "version": "1.0.0",
+  "description": "node密码加密",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "node",
+    "crypto-js",
+    "typescript"
+  ],
+  "homepage": "",
+  "author": "llscw@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "4.0.0"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "4.0.0",
+    "@types/node": "^14.14.41"
+  },
+  "files": [
+    "dist/**/*"
+  ]
+}
