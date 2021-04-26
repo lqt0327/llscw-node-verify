@@ -11,7 +11,7 @@
     "crypto-js",
     "typescript"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/lqt0327/llscw-node-verify",
   "author": "llscw@qq.com",
   "license": "ISC",
   "dependencies": {
